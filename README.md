@@ -40,7 +40,7 @@
 
 > Untuk masuk ke halaman **DIAS**, Mahasiswa dapat mengakses ke halaman
 > utama
-> [**[https://dias.ulbi.ac.id/]{.underline}**](https://dias.ulbi.ac.id/)
+> [https://dias.ulbi.ac.id/](https://dias.ulbi.ac.id/)
 
 -----------------------------------------------------------------------
  ![](vertopal_630491c25ca54255b95d865cd629747c/media/image1.png)
